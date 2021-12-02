@@ -1,4 +1,4 @@
-# TSTL tiny-ecs
+# TSTL binser
 
 Declarations for [binser](https://github.com/bakpakin/binser), Customizable Lua Serializer.
 
