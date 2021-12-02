@@ -1,0 +1,27 @@
+{
+  "name": "tstl-binser",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxiy01/tstl-binser.git"
+  },
+  "keywords": [
+    "tstl",
+    "typescript-to-lua",
+    "lua",
+    "typescript",
+    "binser",
+    "serialization"
+  ],
+  "author": "maxiy01",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maxiy01/tstl-binser/issues"
+  },
+  "homepage": "https://github.com/maxiy01/tstl-binser#readme"
+}
